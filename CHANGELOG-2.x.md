@@ -15,7 +15,7 @@ npm install --save --save-exact react-scripts@2.1.8
 ```
 
 or
-
+ balalala
 ```sh
 yarn add --exact react-scripts@2.1.8
 ```
